@@ -1,0 +1,23 @@
+  
+<!doctype html>
+<html>
+<head>
+  <title>html tags 정리</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1>목록<h1>
+  <ol>
+    <li><a href="1.overview">overview</a></li>
+    <li><a href="2.basictags">basictags</a></li>
+    <li><a href="3.3">3</a></li>
+    <li><a href="4.4">4</a></li>
+    <li><a href="5.formating">formating</a></li>
+    <li><a href="6.phrasetags">phrasetags</a></li>
+    <li><a href="7.metatags">metatags</a></li>
+    <li><a href="8.images">images</a></li>
+  </ol>
+  <p style="margin-top:40px;"> <strong>누구나 중2병은 겪잖아?</strong><br>
+    </p>
+</body>
+</html>
